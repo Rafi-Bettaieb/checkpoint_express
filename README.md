@@ -1,0 +1,14 @@
+this is the mongoose checkpoint wher i used : 
+- person.js to create a new schema model
+- save() to save a new person
+- create(array) to create many people
+- find() to find people with aspecific criteria
+- findOne() to find one person that have a specific  criteria
+- findById() to find one person that have a specific  id
+- findOneAndUpdate() to update one person
+- findByIdAndRemove() to delete a person with a specific id
+- deleteMany() to delete many people with a specific  criteria
+- chaining to chain many commands to be executed in order
+- limit() to limit the number of results
+- sort() to sort the results
+- select to choose the fiels that will appear
